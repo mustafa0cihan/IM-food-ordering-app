@@ -1,0 +1,293 @@
+[
+  {
+  "name": "Masala Dosa.",
+  "adjective": "Small",
+  "desciption": "A sort of Indian pancake, dosas are made from a thin batter consisting of rice, flour and lentils. Traditionally, dosas are served folded in half and stuffed with potatoes. Accompaniments like hot sambar give the dish a spicy edge, and whatever you stuff them with, dosas are sure to provide a tasty yet satisfying meal.",
+  "price": "29",
+  "category": {
+    "name": "indian"
+  },
+  "imageUrl": "https://www.cookwithmanali.com/wp-content/uploads/2020/05/Masala-Dosa-500x375.jpg"
+},
+{
+  "name": "Chaat",
+  "adjective": "Small",
+  "desciption": "Synonymous with Delhi street food vendors, chaat is one of Indias most delicious savoury snacks. The name derives from three Hindi words meaning a delicacy, licking ones fingers and to devour with relish and this dish truly does live up to its heritage. Although there is now a plethora of different varieties, the original chaat is a wonderful combination of diced potato pieces, crispy fried bread and chickpeas garnished with fresh coriander leaves, yoghurt and dried ginger and tamarind sauce.",
+  "price": "21",
+  "category": {
+    "name": "indian"
+  },
+  "imageUrl": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sibyl_sunitha/Delhi_Style_Matar_Chaat_Matra_Recipe_Spicy__Tangy_Dry_Green_Peas_Curry_Curry_Recipe.jpg"
+},
+{
+  "name": "Dal Makhani",
+  "adjective": "Small",
+  "desciption": "Dal is the Hindi word for lentils, and this soup-like delicacy is made by stewing small black lentils for hours on end. Whilst there are many different varieties of this lentil dish, dal makhani is in a league of its own. It is considered the best of the best, and is reserved for big events like wedding celebrations. With makhanimeaning buttery  in Hindi, there is no prizes for guessing how rich and creamy this Indian classic tastes.",
+  "price": "14",
+  "category": {
+    "name": "indian"
+  },
+  "imageUrl": "https://yourfoodfantasy.com/wp-content/webpc-passthru.php?src=https://yourfoodfantasy.com/wp-content/uploads/2015/12/dal-makhni-recipe-at-yourfoodfantasy-com-by-meenu-gupta6-1024x687.jpg&nocache=1"
+},
+{
+  "name": "Vada Pav",
+  "adjective": "Small",
+  "desciption": "Originating in the traditionally vegetarian state of Maharashtra, vada pav is as close as Indian cuisine gets to veggie burgers. One for carb lovers, vada pav consists of a deep fried potato dumpling placed neatly inside a small bun. The finger food delicacy is generally accompanied by a couple of chutneys and a green chilli, to appeal to the spice loving palettes of Indians up and down the country.",
+  "price": "18",
+  "category": {
+    "name": "indian"
+  },
+  "imageUrl": "https://media-cdn.greatbritishchefs.com/media/rtkhtywh/img84619.jpg?mode=crop&width=768&height=512"
+},
+{
+  "name": "Stuffed Paratha",
+  "adjective": "Small",
+  "desciption": "Often eaten at the start of the day, stuffed parathas are seen as the breakfast of champions in northern India. The word paratha derives from the Sanskrit word atta meaning layers of cooked dough, and this dish lives up to its moniker. After leaving the dough (or atta) to rest overnight, parathas are made by cooking the dough on a tava before shallow frying.",
+  "price": "41",
+  "category": {
+    "name": "indian"
+  },
+  "imageUrl": "https://i.imgur.com/cWl0J8x.jpg"
+},
+{
+  "name": "Dhokla",
+  "adjective": "Small",
+  "desciption": "Hailed as the regional dish of northwest India, the Gujarati delicacy dhokla is a savoury vegetarian snack made of rice and split chickpeas. Its tastier than it sounds Gujaratis eat it for breakfast or lunch, and sometimes even as a snack or side dish. Another dish that takes hours of preparation, dhokla involves soaking the rice and split chickpeas in equal quantities overnight. Then, chilli, coriander, ginger and baking soda are added to add spice to the dish, and help it rise into delicious bite size morsels.",
+  "price": "34",
+  "category": {
+    "name": "indian"
+  },
+  "imageUrl": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2020-12/dhokla%C2%A9iStock.jpg"
+},
+{
+  "name": "Barfi",
+  "adjective": "Small",
+  "desciption": "The most traditional type though is milk barfi. Predictably, these milk-based sweets are made from milk powder, condensed milk, ghee and cardamom powder. These sweets are traditionally gifted as good luck offerings at occasions like wedding ceremonies, but there’s nothing to say you can’t pop down to the sweet shop to buy one to accompany your afternoon chai. ",
+  "price": "28",
+  "category": {
+    "name": "indian"
+  },
+  "imageUrl": "https://wildbeimwild.com/wp-content/uploads/2021/08/Milchtoffees.jpg"
+},
+{
+  "name": "Sushi ",
+  "adjective": "Small",
+  "desciption": "Sushi is one of the quintessential Japanese dishes that is loved around the world. Sushi rice, flavored with rice vinegar, is delicately hand-pressed and topped with various kinds of raw seafood.",
+  "price": "19",
+  "category": {
+    "name": "Asian"
+  },
+  "imageUrl": "https://cdn.media.amplience.net/i/japancentre/guide-page-sushi-79-maki-sushi/Maki-sushi-rolls?$poi$&w=1200&h=630&sm=c&fmt=auto"
+},
+{
+  "name": "Kimchi",
+  "adjective": "Small",
+  "desciption": "Commonly, Chinese cabbage is used; however, other vegetables, such as cucumbers, can also be used. The vegetables are marinated and placed in brine with hot chili peppers, salty fish paste, leeks, ginger, sugar, and garlic. They are then left to ferment over weeks or months, becoming spicy, salty, sweet, and sour. Kimchi is a classic side dish or starter to any Korean meal.",
+  "price": "53",
+  "category": {
+    "name": "Asian"
+  },
+  "imageUrl": "https://www.platingsandpairings.com/wp-content/uploads/2014/12/Kimchi-5.jpg"
+},
+{
+  "name": "Dim Sum",
+  "adjective": "Small",
+  "desciption": "Dim sum is a variety of bite-sized foods served with Chinese tea. These delicious small treats can include small dumplings, buns, and noodle rolls, served in bamboo steamers. Typically, dim sum is consumed during brunch—late morning to lunchtime. Popular dim sum dishes are shumai, BBQ pork buns, chicken feet, and rice noodle rolls. Small, delicate, and delicious egg tarts finish the meal.",
+  "price": "34",
+  "category": {
+    "name": "Asian"
+  },
+  "imageUrl": "http://cdn.cnn.com/cnnnext/dam/assets/160325033254-hk-dim-sum-fook-lam-moon.jpg"
+},
+{
+  "name": "Satay",
+  "adjective": "Small",
+  "desciption": "Satay is a traditional Indonesian dish that is made up of skewered meat thats served with a peanut sauce on the side. The chicken is marinated in a mix of herbs and spices including dark soy sauce, garlic, turmeric powder, and coriander powder. Other, more exotic, meats can be used, such as crocodile and snake. The skewers can be eaten as is or alongside jasmine rice and a squeeze of lime juice.",
+  "price": "24",
+  "category": {
+    "name": "Asian"
+  },
+  "imageUrl": "https://www.sbs.com.au/food/sites/sbs.com.au.food/files/malaysian-chicken-satay-with-nyonya-peanut-sauce.jpg"
+},
+{
+  "name": "Ramen",
+  "adjective": "Small",
+  "desciption": "Ramen is a staple in Japanese cuisine. First appearing in 1910, it was adapted from Chinese cuisine and has since become one of Japans most popular dishes. A broth, made with a special tare and stock, fills the bowl along with chewy noodles. It is topped with some nori (seaweed), a marinated egg, scallions, and char sit pork.",
+  "price": "11",
+  "category": {
+    "name": "Asian"
+  },
+  "imageUrl": "https://img.taste.com.au/Ab1onwBh/taste/2018/09/shoyu-chicken-ramen-with-fresh-corn-and-choy-sum-141347-2.jpg"
+},
+{
+  "name": "Pho",
+  "adjective": "Small",
+  "desciption": "Pho is one of the staples of Vietnamese cuisine and is the nations comfort food. Whilst being a simple dish, the complex aromas and flavors make it one of the most beloved dishes of Vietnam. The bones of chicken or beef are simmered for hours to create a delicious broth, which is accentuated by further spices, herbs, and condiments. To finish, chewy noodles and succulent beef are added.",
+  "price": "17",
+  "category": {
+    "name": "Asian"
+  },
+  "imageUrl": "https://www.oliveandmango.com/images/uploads/2021_12_26_beef_pho_noodle_soup_recipe_1.jpg"
+},
+{
+  "name": "Pad Krapow ",
+  "adjective": "Small",
+  "desciption": "Pad krapow is ubiquitous to Thai cuisine as it is quick, delicious, and cheap, similar to that of a burger or sandwich in Western cuisine. Chicken is fried and seasoned with dark and light soy sauce, chilies, and garlic with plenty of fragrant Thai holy basil adding a beautiful aroma. Alongside jasmine rice and topped with ",
+  "price": "40",
+  "category": {
+    "name": "Italian"
+  },
+  "imageUrl": "https://media.30seconds.com/tip/lg/15-Minute-Pad-Krapow-Gai-Recipe-Thai-Basil-Chicken-Stir-fr-30013-b158327a04-1653054881.jpg"
+},
+{
+  "name": "Risotto Alla Milanese ",
+  "adjective": "Small",
+  "desciption": "Brought to Sicily by the Moors in the thirteenth century, rice is mostly grown in the fertile lands of northern Italys Po Valley. Carnaroli is sautéed with onions in butter, then simmered in saffron-flavored broth and white wine, and topped with parmesan cheese.",
+  "price": "49",
+  "category": {
+    "name": "Italian"
+  },
+  "imageUrl": "https://www.chefpercaso.it/wp-content/uploads/2020/06/ossobuco_blog.jpg"
+},
+{
+  "name": "Polenta.",
+  "adjective": "Small",
+  "desciption": "Polenta is stone-ground corn that is whisked into boiling water or broth, usually in a copper pot, until thick. A classic polenta has butter, black pepper, and parmesan mixed in.",
+  "price": "29",
+  "category": {
+    "name": "Italian"
+  },
+  "imageUrl": "https://www.giallozafferano.com/images/230-23023/Polenta-chips_1200x800.jpg"
+},
+{
+  "name": "Lasagna",
+  "adjective": "Small",
+  "desciption": "In this classic dish from Naples, lasagne noodles are layered with tomato or meat sauce, and ricotta cheese, topped with mozzarella cheese and baked.",
+  "price": "39",
+  "category": {
+    "name": "Italian"
+  },
+  "imageUrl": "https://www.thewholesomedish.com/wp-content/uploads/2018/07/Best-Lasagna-550-500x375.jpg"
+},
+{
+  "name": " Ravioli",
+  "adjective": "Small",
+  "desciption": "Ravioli is a type of pasta ripiena stuffed pasta. They are square or round cuts of pasta wrapped around a savory filling, like ricotta cheese with herbs, and served with sauce.",
+  "price": "18",
+  "category": {
+    "name": "Italian"
+  },
+  "imageUrl": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/styles/recipes_1200_800_fallback/public/Original_871_FDL-114-A3--Corbis-CUT1.jpg?itok=kfrNoirb"
+},
+{
+  "name": "Osso Buco",
+  "adjective": "Small",
+  "desciption": "This dish from Milan features veal shanks braised in a red-wine reduction with vegetables. It is topped with a gremolata—a seasoning mixture, of lemon zest, garlic, and parsley. Anchovies can be added, too. Osso buco is often served with risotto alla Milanese.",
+  "price": "23",
+  "category": {
+    "name": "Italian"
+  },
+  "imageUrl": "https://res.cloudinary.com/serdy-m-dia-inc/image/upload/f_auto/fl_lossy/q_auto:eco/x_0,y_834,w_1536,h_864,c_crop/w_576,h_324,c_scale/v1607616400/foodlavie/prod/recettes/osso-buco-de-porc-et-gremolata-a-lorange-3bf11ede"
+},
+{
+  "name": " Arancini",
+  "adjective": "Small",
+  "desciption": "These Sicilian rice balls are made by rolling cooked risotto mixed with butter and parmesan. The balls are dipped in flour, egg, and breadcrumbs, and fried in olive oil until they are golden. They resemble little oranges or “arancini” in Italian.",
+  "price": "30",
+  "category": {
+    "name": "Italian"
+  },
+  "imageUrl": "https://images-1d71.kxcdn.com/images/resized/size-misc_large/2017/03/23/23/38/18/446/mozzarella-and-pea-arancini-step-4-serving.jpg"
+},
+{
+  "name": "Ribollita",
+  "adjective": "Small",
+  "desciption": "This Tuscan stew was created when servants would clear the plates of their masters and cook the leftovers in boiling water. Ribollita, which means re-boiled, is made with cannellini beans and hearty vegetables and thickened with stale bread.",
+  "price": "40",
+  "category": {
+    "name": "Italian"
+  },
+  "imageUrl": "https://www.cucchiaio.it/content/cucchiaio/it/ricette/2007/12/ricetta-ribollita-semplice/_jcr_content/header-par/image_single.img.jpg/1610368905728.jpg"
+},
+{
+  "name": "Spaghetti Alla Carbonara",
+  "adjective": "Small",
+  "desciption": "This dish from Rome is simply cooked spaghetti tossed into a hot pan with guanciale (pork cheek) or pancetta. A mix of egg, parmesan, and black pepper is poured into the hot pasta.",
+  "price": "33",
+  "category": {
+    "name": "Italian"
+  },
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Espaguetis_carbonara.jpg/640px-Espaguetis_carbonara.jpg"
+},
+{
+  "name": "Neapolitan Pizza",
+  "adjective": "Small",
+  "desciption": "This classic peasant dish from Naples started as flatbread and tomatoes. Originally called pizza Margherita, Neapolitan pizza is dough covered in San Marzano tomatoes, olive oil, basil, and mozzarella di Bufala Campana—cheese produced from the milk of Italian water buffaloes in southern Italy.",
+  "price": "22",
+  "category": {
+    "name": "Italian"
+  },
+  "imageUrl": "https://www.bacinos.com/wp-content/uploads/2021/06/30-Best-Neapolitan-Pizza-Recipes.jpg"
+},
+{
+  "name": "Caprese Salad",
+  "adjective": "Small",
+  "desciption": "This popular summer salad is simply tomato slices topped with mozzarella cheese and basil leaves, with a drizzle of olive oil and balsamic vinegar.",
+  "price": "12",
+  "category": {
+    "name": "Italian"
+  },
+  "imageUrl": "https://www.thespruceeats.com/thmb/pbAg0SIRrqBOVNHLcmx2stAs188=/735x0/caprese-salad-tomato-salad-2217097-hero-03-75a0b89b30aa4a52b10fe4fdd9abfeb5.jpg"
+},
+{
+  "name": "Country Fried Steak",
+  "adjective": "Small",
+  "desciption": "Also known as chicken fried steak, country fried steak is cubed beef steak floured and breaded in the same way you d bread and fry chicken. It is then covered in southern white pepper gravy and often served with mashed or breakfast potatoes. It can be served as breakfast or as a dinner entrée.",
+  "price": "16",
+  "category": {
+    "name": "American"
+  },
+  "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/chicken-fried-steak-1627936917.jpg?crop=0.739xw:0.716xh;0.0821xw,0.219xh&resize=640:*"
+},
+{
+  "name": "Cheeseburgers",
+  "adjective": "Small",
+  "desciption": "The cheeseburger started life as a “Hamburger Steak Sandwich,” popularized in the 1890s. When the cheese was first introduced is disputed, but the trademark for cheeseburgers was awarded to Louis Ballast of Denver, Colorado in 1935.  These days youll find a cheeseburger on almost every American food menu.",
+  "price": "16",
+  "category": {
+    "name": "American"
+  },
+  "imageUrl": "https://www.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2018/06/20/Food/Images/v-essential-burgers_04.jpg?t=20170517"
+},
+{
+  "name": "Nashville Hot Chicken",
+  "adjective": "Small",
+  "desciption": "Nashville hot chicken is a spicy dish with a spicy story. Legend has it that chicken entrepreneur and known ladies man Thornton Prince was served chicken coated in cayenne pepper by a scorned lover in an effort to teach him a lesson.  Prince ended up loving the dish, opening a restaurant, and the rest is history! ",
+  "price": "16",
+  "category": {
+    "name": "American"
+  },
+  "imageUrl": "https://www.grandluxcafe.com/Assets/images/Recipes/745x419-GLC_NashvilleHotChicken.jpg"
+}
+,
+{
+  "name": "Meatloaf",
+  "adjective": "Small",
+  "desciption": "Meatloaf is a dish so varied in origin that many cultures can call it their own. However, the American variety first appeared in Fannie Farmer s “Boston Cooking School Cookbook” in 1918 and has featured on almost every American dining room table since. ",
+  "price": "16",
+  "category": {
+    "name": "American"
+  },
+  "imageUrl": "https://images-gmi-pmc.edge-generalmills.com/3cf55356-20a0-4b40-b8ec-965ba1a92bb4.jpg"
+},
+{
+  "name": "Buffalo Wings",
+  "adjective": "Small",
+  "desciption": "We all know buffalo wings to have originated in Buffalo, New York, but the story of their origination is somewhat disputed. Although most sources credit Teresa Belissmo of The Anchor Bar in Buffalo with their invention, what is undisputed is their impact on the American culinary scene.",
+  "price": "16",
+  "category": {
+    "name": "American"
+  },
+  "imageUrl": "https://www.thespruceeats.com/thmb/MLiIaZdbQpM1DNjeMAfBAdvZgzs=/4400x2475/smart/filters:no_upscale()/basic-buffalo-hot-wings-recipe-100937-hero-01-611327a035df408fa3771fe8970d8521.jpg"
+}
+]
